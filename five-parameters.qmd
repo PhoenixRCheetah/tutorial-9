@@ -13,3 +13,4 @@ library(tidyverse)
 library(primer.data)
 ```
 
+Using data from all deceased candidates in the United States between 1945 and 2012, we aim to predict their longevity after election.
